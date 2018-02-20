@@ -1,5 +1,5 @@
 {
-  "name": "graphql-import",
+  "name": "@braden-m/graphql-import",
   "version": "0.0.0-semantic-release",
   "engines": {
     "node": ">=4.0.0"
@@ -56,7 +56,7 @@
     "typescript": "2.7.2"
   },
   "dependencies": {
-    "graphql": "^0.13.0",
+    "graphql": "^0.10.0",
     "lodash": "^4.17.4"
   }
 }
