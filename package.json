@@ -1,6 +1,6 @@
 {
   "name": "@braden-m/graphql-import",
-  "version": "0.0.0-semantic-release",
+  "version": "0.1.0",
   "engines": {
     "node": ">=4.0.0"
   },
